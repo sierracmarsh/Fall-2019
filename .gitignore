@@ -1,8 +1,16 @@
+<<<<<<<
 Library/
 Temp/
 obj/
 build/
 builds/
+=======
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+>>>>>>>
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
